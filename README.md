@@ -3,4 +3,6 @@ Backup projects
 
 # Model
 
-EMF Model for Backup.
+Eclipse Modeling Framework (EMF) Model for Backup.
+It is based on implementation of Handy Backup proprietary software www.handybackup.net.
+The purpose of the model is to attract developers to extend Handy Backup functionality.
